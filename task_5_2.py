@@ -1,0 +1,10 @@
+max_number = 15
+odd_nums = (i for i in range(1, max_number + 1, 2))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
+print(next(odd_nums))
